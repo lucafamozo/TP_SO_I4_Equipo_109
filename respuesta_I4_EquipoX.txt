@@ -6,3 +6,16 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 blue
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 El de BETA
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Alfa y Beta tuvieron conflictos.
+F- ¿Qué problemas surgieron?
+Conflictos entre versiones
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Utilizamos el force push
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Se sobreescriben todos los datos del repositorio a la versión actual del repositorio local de quien haga el push
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Se hace un merge de TESTING a DESARROLLO
